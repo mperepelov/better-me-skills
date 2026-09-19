@@ -10,9 +10,7 @@ With Node.js and npm installed, run this from your project directory:
 npx skills@latest add mperepelov/better-me-skills
 ```
 
-Choose the skills and coding agents you want to install them for. This uses the
-same [skills CLI](https://github.com/vercel-labs/skills) installation approach as
-[mattpocock/skills](https://github.com/mattpocock/skills).
+Choose the skills and coding agents you want to install them for.
 
 To install only `knowledge-vault`:
 
