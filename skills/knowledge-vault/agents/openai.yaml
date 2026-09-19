@@ -1,0 +1,3 @@
+interface:
+  display_name: "Knowledge Vault"
+  short_description: "Reuse and persist durable project knowledge"
